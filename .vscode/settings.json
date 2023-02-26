@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "file:///Users/maciek/.vscode/extensions/atlassian.atlascode-3.0.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/maciek/Code/astro-deploy-gh-pages-demo/.github/worklows/deploy.yml"
+  }
+}
